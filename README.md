@@ -8,5 +8,10 @@
 **Design UI Form Register**
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/a0e11771-3d5a-40ed-a4b4-6930b2e92da0" />
 
+
+
 **Screen Shot of Register Form Application**
-<img width="500" height="700" alt="Screenshot_20260325_144812" src="https://github.com/user-attachments/assets/14ecc765-d603-40a1-a7eb-352bdfd674e5" />
+
+<img width="300" align="left" alt="Screenshot_20260325_144812" src="https://github.com/user-attachments/assets/14ecc765-d603-40a1-a7eb-352bdfd674e5" />
+
+**Screen Recording**
