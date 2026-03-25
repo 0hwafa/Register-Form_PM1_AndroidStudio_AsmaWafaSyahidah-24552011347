@@ -1,8 +1,9 @@
 # Register-Form_PM1_AndroidStudio_AsmaWafaSyahidah-24552011347
 
-Nama : Asma Wafa Syahidah
-NPM  : 24552011347
-Kelas: CID TIF RP 24 C
+
+- **Nama**  : Asma Wafa Syahidah  
+- **NPM**   : 24552011347  
+- **Kelas** : CID TIF RP 24 C
 
 **Design UI Form Register**
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/a0e11771-3d5a-40ed-a4b4-6930b2e92da0" />
